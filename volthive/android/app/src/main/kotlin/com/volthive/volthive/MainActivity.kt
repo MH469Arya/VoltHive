@@ -1,0 +1,5 @@
+package com.volthive.volthive
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()

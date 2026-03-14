@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1023253923170",
+    "project_id": "volthive-84a79",
+    "storage_bucket": "volthive-84a79.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023253923170:android:28a6e99c358fc417a8183b",
+        "android_client_info": {
+          "package_name": "com.volthive.volthive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0t5AJzhms3Fa8uKE7ypnClvZ0mIzXClY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
