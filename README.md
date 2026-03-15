@@ -5,7 +5,7 @@
   
   **Production-Ready Energy-as-a-Service (EaaS) Digital Platform**
   
-  https://volthive-84a79.web.app/ • https://youtu.be/sFyV116d2iA
+  https://volthive-84a79.web.app • https://youtu.be/sFyV116d2iA
 </div>
 
 ---
@@ -23,8 +23,8 @@
 - **Premium UI/UX:** Responsive Material 3 design utilizing the "Plus Jakarta Sans" typography, an eco-conscious color palette, and full dark-mode support for OLED efficiency.
 
 ## 🔗 Quick Links
-- 🎥 **[Watch Demo Video]((Insert Demo Video Link Here))**
-- 🌍 **[Visit Live Product]((Insert Product Link Here))**
+- 🎥 **[Watch Demo Video]** - https://volthive-84a79.web.app
+- 🌍 **[Visit Live Product]** - https://youtu.be/sFyV116d2iA
 
 ## 🏗️ High-Level Architecture
 ### Frontend
