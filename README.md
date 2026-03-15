@@ -5,7 +5,7 @@
   
   **Production-Ready Energy-as-a-Service (EaaS) Digital Platform**
   
-  https://volthive-84a79.web.app/ • [**🎥 Insert Demo Video Link Here 🎥**](#)
+  https://volthive-84a79.web.app/ • https://youtu.be/sFyV116d2iA
 </div>
 
 ---
